@@ -1,0 +1,22 @@
+{
+	"name":"Pradeep",
+	"email": "pradeep@gmail.com",
+	"phoneNo" : 9876543210,
+	"studDetails" : [{
+		"firstName": "Syed",
+		"Course" : "Java",
+		"Address" : "Thanjavur"
+		},{
+		"firstName": "Sathis",
+		"Course" : "Python",
+		"Address" : "Vellore"
+		},{
+		"firstName": "Balaji",
+		"Course" : "SQL",
+		"Address" : "Vellore"
+		},{
+		"firstName": "Arun",
+		"Course" : "API",
+		"Address" : "Ariyalur"
+		}]
+}

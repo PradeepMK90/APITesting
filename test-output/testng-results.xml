@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-14T19:17:57 IST" name="Default suite" finished-at="2022-05-14T19:18:13 IST" duration-ms="15895">
+    <groups>
+    </groups>
+    <test started-at="2022-05-14T19:17:57 IST" name="Default test" finished-at="2022-05-14T19:18:13 IST" duration-ms="15895">
+      <class name="org.ratestngwithserializationanddeserialization.Main_Vels_Pojo">
+        <test-method signature="LoginV()[pri:1, instance:org.ratestngwithserializationanddeserialization.Main_Vels_Pojo@73e9cf30]" started-at="2022-05-14T19:17:57 IST" name="LoginV" finished-at="2022-05-14T19:18:06 IST" duration-ms="8605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginV -->
+        <test-method signature="CreateAddress()[pri:2, instance:org.ratestngwithserializationanddeserialization.Main_Vels_Pojo@73e9cf30]" started-at="2022-05-14T19:18:06 IST" name="CreateAddress" finished-at="2022-05-14T19:18:08 IST" duration-ms="1875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAddress -->
+        <test-method signature="UpdateAddress()[pri:3, instance:org.ratestngwithserializationanddeserialization.Main_Vels_Pojo@73e9cf30]" started-at="2022-05-14T19:18:08 IST" name="UpdateAddress" finished-at="2022-05-14T19:18:09 IST" duration-ms="1630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateAddress -->
+        <test-method signature="GetAddress()[pri:4, instance:org.ratestngwithserializationanddeserialization.Main_Vels_Pojo@73e9cf30]" started-at="2022-05-14T19:18:09 IST" name="GetAddress" finished-at="2022-05-14T19:18:11 IST" duration-ms="1965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAddress -->
+        <test-method signature="DeleteAddress()[pri:5, instance:org.ratestngwithserializationanddeserialization.Main_Vels_Pojo@73e9cf30]" started-at="2022-05-14T19:18:11 IST" name="DeleteAddress" finished-at="2022-05-14T19:18:13 IST" duration-ms="1712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteAddress -->
+      </class> <!-- org.ratestngwithserializationanddeserialization.Main_Vels_Pojo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
