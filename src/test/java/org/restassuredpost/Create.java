@@ -17,6 +17,8 @@ public class Create {
 		int statusCode = response.getStatusCode();
 		System.out.println(statusCode);
 		ResponseBody body = response.getBody();
+		String asString = body.asString();
+		System.out.println(asString);
 		String asPrettyString = body.asPrettyString();
 		System.out.println(asPrettyString);
 	}
